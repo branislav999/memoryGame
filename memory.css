@@ -17,8 +17,18 @@ body div{
     align-items: center;
     justify-content: center;
     height: 200px;
+    cursor: pointer;
 }
 
-/* .emoji-card{
+.emoji-card{
     display: none;
-} */
+}
+
+
+.face-up{
+    display: flex;
+}
+
+p{
+   font-size: 3em;
+}
